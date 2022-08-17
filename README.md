@@ -8,7 +8,7 @@ click it once and ![](https://github.com/Fdito/tldraw-PDF-exporter/blob/master/B
 Click the button and it will export as a PDF the visible screen
 Right click it in every place you want to include in the PDF (it will include them as individual pages), then press scape to generate the PDF
 
-To install
+#To install
 
  - Download and extract [tldraw-PDF-exporter.zip](https://github.com/Fdito/tldraw-PDF-exporter/raw/master/tldraw-PDF-exporter.zip)
  - Go to chrome://extensions
