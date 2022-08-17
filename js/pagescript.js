@@ -106,6 +106,7 @@ function generatepdf() {
             pdf.addImage(imagecaptureddata[i].data, 'PNG', 0, 0, width, height);
 
         }
+        imagecaptureddata = []
         pdf.save(today+'.pdf');
         console.clear()
     };
