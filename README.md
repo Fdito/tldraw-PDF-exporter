@@ -4,6 +4,7 @@ tldraw is a great whiteboard aplication, but it's missing a feature since it's c
 
 This chrome extension adds a PDF export option to the main toolbar
 click it once and ![](https://github.com/Fdito/tldraw-PDF-exporter/blob/master/Button%20created.png)
+
 Click the button and it will export as a PDF the visible screen
 Right click it in every place you want to include in the PDF (it will include them as individual pages), then press scape to generate the PDF
 
